@@ -233,7 +233,7 @@ const socialImgs = [
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/",
+    url: "https://www.linkedin.com/in/ilaydarslan/",
     imgPath: "/images/linkedin.png",
   },
 ];
